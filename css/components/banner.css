@@ -1,0 +1,36 @@
+.banner {
+  margin: 0 auto;
+  padding: 120px 0;
+  color: white;
+  background-size: cover;
+}
+
+.banner h1 {
+	font-size: 38px;
+	font-weight: bold;
+	color: white;
+}
+
+.banner p {
+	font-size: 30px;
+    font-style: italic;
+    font-weight: lighter;
+    opacity: 0.8;
+    color: white;
+    line-height: 1em;
+}
+
+.banner .btn-green {
+	background-color: #258063;
+	color: white;
+	padding: 8px 24px;
+	border-radius: 4px;
+	box-shadow: 0 2px 5px rgba(0,0,0,.3);
+    transition: all .5s ease;
+    display: inline-block;
+}
+
+.banner .btn-green:hover {
+	
+	box-shadow: 0 2px 5px rgba(240,240,240,.5), inset 20px 0px 80px #104031;
+}

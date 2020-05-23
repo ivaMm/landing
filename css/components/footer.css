@@ -1,0 +1,21 @@
+.footer {
+	text-align: center;
+    padding: 30px;
+    background-color: #192b26;
+    color: rgb(230, 230, 230);
+}
+
+.social-links .fab {
+    color: #258063;
+    font-size: 32px;
+}
+
+.social-links .fab:hover {
+    color: #71c9ae;
+    font-size: 32px;
+}
+
+.social-links .fas {
+	color: #f5a2aa;
+	text-shadow: 0 0px 0px rgba(240, 240, 240, .5);
+}
